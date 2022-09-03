@@ -1,0 +1,38 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	/*background-color: red;*/
+}
+
+.manu{
+	list-style: none;
+	text-align: center;
+	font-size: 35px;
+
+}
+.btn{
+	background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
+.btn:hover{
+	background: skyblue;
+  	cursor: pointer;
+}
+
+h1{
+	padding-top: 100px;
+	text-align: center;
+	font-size: 35px;
+
+}
+h2{
+	padding-top: 50px;
+	text-align: left;
+	font-size: 30px;
+}
+p{
+	font-size: 25px;
+    padding-top: 10px;
+}
